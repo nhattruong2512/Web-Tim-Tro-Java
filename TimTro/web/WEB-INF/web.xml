@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="3.1" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd">
+    <!--Startint Servlet-->
+    <servlet>
+        <servlet-name>HelloWorld</servlet-name>
+        <servlet-class>timtro.HelloWorld</servlet-class>
+        <init-param>
+            <param-name>song</param-name>
+            <param-value>Everything but the girl</param-value>
+        </init-param>
+    </servlet>
+    <servlet>
+        <servlet-name>ImageShow</servlet-name>
+        <servlet-class>timtro.ImageShow</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>FilterServlet</servlet-name>
+        <servlet-class>controller.FilterServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>HelloWorld</servlet-name>
+        <url-pattern>/hello</url-pattern>
+    </servlet-mapping>
+    <servlet>
+        <servlet-name>Authentication</servlet-name>
+        <servlet-class>timtro.Authentication</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>Authentication</servlet-name>
+        <url-pattern>/login</url-pattern>
+    </servlet-mapping>
+    <!--Ending Servlet-->
+    <!--Starting JSP-->
+    <servlet>
+        <servlet-name>Sample</servlet-name>
+        <jsp-file>/process/sample.jsp</jsp-file>
+    </servlet>
+    <!--Ending JSP-->
+    <servlet-mapping>
+        <servlet-name>Sample</servlet-name>
+        <url-pattern>/funny</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>ImageShow</servlet-name>
+        <url-pattern>/ImageShow</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>FilterServlet</servlet-name>
+        <url-pattern>/FilterServlet</url-pattern>
+    </servlet-mapping>
+    <session-config>
+        <session-timeout>
+            30
+        </session-timeout>
+    </session-config>
+</web-app>

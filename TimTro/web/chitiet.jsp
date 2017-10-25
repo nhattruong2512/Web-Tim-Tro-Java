@@ -8,7 +8,6 @@
                 font-weight: 400
             }
         </style>
-        <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700" rel="stylesheet" type="text/css"> 
         <style type="text/css">
             .gm-style .gm-style-cc span,
             .gm-style .gm-style-cc a,
@@ -62,9 +61,6 @@
             }
         %>
         <title><%=phongTro.getTitle()%> </title>
-        <link href="http://gmpg.org/xfn/11" rel="profile">
-        <link href="https://phongtro123.com/xmlrpc.php" rel="pingback">
-        <link href="https://phongtro123.com/" rel="alternate" hreflang="vi-VN">
 
         <link href="css/font-awesome.min.css" rel="stylesheet"> 
         <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -74,28 +70,9 @@
         <link href="css/select2.min.css" rel="stylesheet"> 
         <link href="css/jquery.mmenu.all.css" rel="stylesheet">
         <link href="css/s1.css" rel="stylesheet">
-        <link href="css/phongtro.tablet.css?v=23" rel="stylesheet">
-        <link href="css/phongtro.mobile.css?v=23" rel="stylesheet">
 
         <link href="css/fonts.min.css" rel="stylesheet"> 
 
-        <!--    <link href="https://phongtro123.com/tinh-thanh/ho-chi-minh/can-ho-dich-vu-full-noi-that-an-ninh-1-2-pn-ngay-tt-q10-29923-25-ly-thuong-kiet-65trthang.html" rel="canonical">
-            <meta content="article" property="og:type">
-            <meta content="Phòng cao cấp dạng căn hộ dich vụ full nội thất, an ninh, ngay TT Q.10, 299/23-25 Lý Thường Kiệt. Giá 6.5 – 7 tr/tháng" property="og:title">
-            <meta content="https://phongtro123.com/tinh-thanh/ho-chi-minh/can-ho-dich-vu-full-noi-that-an-ninh-1-2-pn-ngay-tt-q10-29923-25-ly-thuong-kiet-65trthang.html" property="og:url">
-            <meta content="https://static.phongtro123.com/uploads/2017/08/received_1868816626773040.jpeg" property="og:image">
-            <meta content="2016-12-06" property="article:published_time">
-            <meta content="2017-10-07" property="article:modified_time">
-            <meta content="https://phongtro123.com/author/linhkha_2005" property="article:author">
-            <meta content="Hồ Chí Minh" property="article:tag">
-            <meta content="Quận 10" property="article:tag">
-            <meta content="Căn hộ" property="article:tag">
-            <meta content="Cho thuê phòng trọ nhà trọ, tìm phòng trọ" property="og:site_name">
-            <meta name="twitter:card" content="summary">-->
-        <!-- /SEO Ultimate -->
-
-        <link href="//s.w.org" rel="dns-prefetch">
-        <link href="css/mycss.css" rel="stylesheet">
         <meta name="description" content="Với dạng 2 giường ngủ riêng biệt bạn có thể thoải mái sinh hoạt với từng không gian riêng: Wc rộng rãi Bếp nấu ăn 2…">
         <meta content="Với dạng 2 giường ngủ riêng biệt bạn có thể thoải mái sinh hoạt với từng không gian riêng: Wc rộng rãi Bếp nấu ăn 2…" property="og:description">
         <style type="text/css">
@@ -115,17 +92,7 @@
         <link id="wpfp-css" href="css/wpfp.css" rel="stylesheet" type="text/css">
         <link id="contact-form-7-css" href="css/styles.css" rel="stylesheet" type="text/css" media="all">
         <link id="breadcrumbs-styles-css" href="css/pt123-default-breadcrumbs.css" rel="stylesheet" type="text/css" media="all">
-        <!-- <script type="text/javascript" src="https://phongtro123.com/wp-includes/js/jquery/jquery.js"></script> -->
-        <!-- <script type="text/javascript" src="https://phongtro123.com/wp-includes/js/jquery/jquery-migrate.min.js"></script> -->
-        <!-- <script type="text/javascript" src="https://phongtro123.com/wp-content/themes/phongtro123/js/district_source.js?v=32"></script> -->
-        <!-- <script type="text/javascript" src="https://phongtro123.com/wp-content/plugins/wp-favorite-posts/wpfp.js"></script> -->
-        <link title="Cần nam ở ghép Quận 1, Tp.Hồ Chí Minh" href="https://phongtro123.com/tinh-thanh/ho-chi-minh/can-nam-o-ghep-quan-1-tp-ho-chi-minh.html" rel="prev">
-        <link title="Cho thuê phòng trọ 999 Quang Trung, Gò Vấp" href="https://phongtro123.com/tinh-thanh/ho-chi-minh/cho-thue-phong-tro-va-mat-bang-van-phong-999-quang-trung-go-vap.html" rel="next">
-        <link href="https://phongtro123.com/?p=130647" rel="shortlink">
-        <link href="https://phongtro123.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fphongtro123.com%2Ftinh-thanh%2Fho-chi-minh%2Fcan-ho-dich-vu-full-noi-that-an-ninh-1-2-pn-ngay-tt-q10-29923-25-ly-thuong-kiet-65trthang.html" rel="alternate" type="application/json+oembed">
-        <link href="https://phongtro123.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fphongtro123.com%2Ftinh-thanh%2Fho-chi-minh%2Fcan-ho-dich-vu-full-noi-that-an-ninh-1-2-pn-ngay-tt-q10-29923-25-ly-thuong-kiet-65trthang.html&amp;format=xml" rel="alternate" type="text/xml+oembed">
-
-        <!-- <link rel="prefetch" href="https://securepubads.g.doubleclick.net/static/3p_cookie.html"> -->
+        
         <style type="text/css">
             .fb_hidden {
                 position: absolute;
@@ -533,7 +500,6 @@
                 z-index: 4
             }
         </style>
-        <link href="https://securepubads.g.doubleclick.net/static/3p_cookie.html" rel="prefetch">
         <style type="text/css">
             .gm-style {
                 font: 400 11px Roboto, Arial, sans-serif;
@@ -567,22 +533,7 @@
 
     <body class="post-template-default single single-post postid-130647 single-format-standard loaded ready" data-user="0">
         <nav class="mm-menu mm-offcanvas mm-right mm-hasnavbar-top-1 mm-hasnavbar-bottom-1 mm-listview-huge mm-fx-panels-slide-100 mm-fx-listitems-slide mm-fx-menu-slide mm-border-offset" id="mobile_mmenu" aria-hidden="true">
-            <div class="mm-navbars-top">
-                <div class="mm-navbar mm-navbar-size-1">
-                    <div class="account_wrapper not_login clearfix">
-                        <div class="left"><a class="link_register" href="https://phongtro123.com/dang-ky-tai-khoan"><i class="fa fa-user-plus" aria-hidden="true"></i> Đăng ký</a>
-                        </div>
-                        <div class="right"><a class="link_login" href="https://phongtro123.com/dang-nhap-tai-khoan?ref=aHR0cHM6Ly9waG9uZ3RybzEyMy5jb20vdGluaC10aGFuaC9oby1jaGktbWluaC9jYW4taG8tZGljaC12dS1mdWxsLW5vaS10aGF0LWFuLW5pbmgtMS0yLXBuLW5nYXktdHQtcTEwLTI5OTIzLTI1LWx5LXRodW9uZy1raWV0LTY1dHJ0aGFuZy5odG1s"><i class="fa fa-sign-in" aria-hidden="true"></i> Đăng nhập</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-
-            <div class="mm-navbars-bottom">
-                <div class="mm-navbar mm-navbar-size-1 mm-navbar-content-2"><a class="mmenu_bottom_btn_addnew" href="https://phongtro123.com/dang-tin"><i class="fa fa-plus-circle" aria-hidden="true"></i><span>Đăng tin mới</span></a><a class="mmenu_bottom_btn_addfund" href="https://phongtro123.com/nap-tien-vao-tai-khoan"><i class="fa fa-usd" aria-hidden="true"></i><span>Nạp tiền</span></a>
-                </div>
-            </div>
+            
         </nav>
 
         <div class="mm-page mm-slideout" id="mm-0">
@@ -598,11 +549,6 @@
             </div>
             <div class="webpage">
 
-
-                <!-- Navbar top -->
-
-                <!-- / Navbar top -->
-
                 <!-- Header -->
                 <header>
 
@@ -613,21 +559,6 @@
                     <div class="search_btn_mobile_navbar">
                         <div class="inner"><i class="fa fa-search" aria-hidden="true"></i><span>Tìm kiếm</span>
                         </div>
-                    </div>
-                    <div class="hamburger_btn_mobile_navbar"><a href="#mobile_mmenu"><i class="fa fa-bars" aria-hidden="true"></i><span>Danh mục</span></a>
-                    </div>
-                    <div class="add_new_btn_mobile_navbar"><a href="https://phongtro123.com/dang-tin"><i class="fa fa-plus-circle" aria-hidden="true"></i><span>Đăng tin <i>mới</i></span></a>
-                    </div>
-                    <div class="register_btn_mobile_navbar"><a href="https://phongtro123.com/dang-ky-tai-khoan"><i class="fa fa-user-plus" aria-hidden="true"></i><span>Đăng ký</span></a>
-                    </div>
-                    <div class="login_btn_mobile_navbar"><a href="https://phongtro123.com/dang-nhap-tai-khoan?ref=aHR0cHM6Ly9waG9uZ3RybzEyMy5jb20vdGluaC10aGFuaC9oby1jaGktbWluaC9jYW4taG8tZGljaC12dS1mdWxsLW5vaS10aGF0LWFuLW5pbmgtMS0yLXBuLW5nYXktdHQtcTEwLTI5OTIzLTI1LWx5LXRodW9uZy1raWV0LTY1dHJ0aGFuZy5odG1s"><i class="fa fa-sign-in" aria-hidden="true"></i><span>Đăng nhập</span></a>
-                    </div>
-                </div>
-
-
-                <div class="show_mobile" id="mobile_navbar_top">
-                    <div class="mobile_navbar_logo">
-                        <a href="https://phongtro123.com"></a>
                     </div>
                 </div>
 
@@ -718,7 +649,7 @@
                             </div>
 
                             <div class="block-photo" id="hinhanh">
-                                <div class="block-photo-title">Hình ảnh</div>
+                                <div class="block-photo-title" style="margin: 20px 0; font-size: 16px; font-weight: 600">Hình ảnh</div>
 
                                 <div class="flexslider" id="flexslider_slider">
 
@@ -739,69 +670,6 @@
 
                             </div>
 
-                            <div class="hidden-lg hidden-sm">
-                                <div class="total_noi_bat total_noi_bat_2" id="tinnoibat">
-                                    <div class="clearfix">
-                                        <div class="header clearfix">
-                                            <span>Tin nổi bật</span>
-                                            <a href="https://phongtro123.com/upload/quang-cao/tin-noi-bat.html" target="blank">Hiển thị tin của bạn tại đây?</a>
-                                        </div>
-                                        <div class="content">
-                                            <div class="listing_tinnoibat clearfix">
-                                                <div class="item clearfix">
-                                                    <div class="item_thumb" style="background: url(https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=https://static.phongtro123.com/uploads/2017/08/received_1868816626773040-300x229.jpeg?id=180405) center no-repeat; background-size: cover;">
-                                                        <a href="https://phongtro123.com/tinh-thanh/ho-chi-minh/can-ho-dich-vu-full-noi-that-an-ninh-1-2-pn-ngay-tt-q10-29923-25-ly-thuong-kiet-65trthang.html"></a>
-                                                        <div class="hot_icon"></div>
-
-                                                        <div class="image_number">
-                                                            <span>5 ảnh</span>
-                                                        </div>
-
-                                                    </div>
-                                                    <div class="item_info">
-                                                        <h3 class="title"><a title="Phòng cao cấp dạng căn hộ dich vụ full nội thất, an ninh, ngay TT Q.10, 299/23-25 Lý Thường Kiệt. Giá 6.5 - 7 tr/tháng" href="https://phongtro123.com/tinh-thanh/ho-chi-minh/can-ho-dich-vu-full-noi-that-an-ninh-1-2-pn-ngay-tt-q10-29923-25-ly-thuong-kiet-65trthang.html">Phòng cao cấp dạng căn hộ dich vụ full nội thất, an ninh, ngay TT Q.10, 299/23-25 Lý Thường Kiệt. Giá 6.5 - 7 tr/tháng</a></h3>
-                                                        <div class="clearfix">
-                                                            <div class="item_price_area clearfix">
-                                                                <div class="price">6.5 Triệu/tháng</div>
-                                                                <div class="area">40m<sup>2</sup>
-                                                                </div>
-                                                            </div>
-                                                            <div class="location"><a title="Quận 10, Hồ Chí Minh" href="https://phongtro123.com/tinh-thanh/ho-chi-minh/quan-10">Quận 10, Hồ Chí Minh</a>
-                                                            </div>
-                                                        </div>
-                                                        <p class="p_content">Với dạng 2 giường ngủ riêng biệt bạn có thể thoải mái sinh hoạt với từng không gian riêng: Wc rộng rãi Bếp nấu ăn 2 giường ngủ linh động với rèm cao…</p>
-                                                    </div>
-                                                </div>
-                                                <div class="item clearfix">
-                                                    <div class="item_thumb" style="background: url(https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=https://static.phongtro123.com/uploads/2016/04/20151031114956-8ca4-1-300x240.jpg?id=83151) center no-repeat; background-size: cover;">
-                                                        <a href="https://phongtro123.com/tinh-thanh/ho-chi-minh/cho-thue-phong-cao-cap-day-du-tien-nghi-nhu-can-ho-ngay-trung-tam-quan-10.html"></a>
-                                                        <div class="hot_icon"></div>
-
-                                                        <div class="image_number">
-                                                            <span>5 ảnh</span>
-                                                        </div>
-
-                                                    </div>
-                                                    <div class="item_info">
-                                                        <h3 class="title"><a title="Cho thuê phòng cao cấp, đầy đủ tiện nghi, như căn hộ, ngay trung tâm Quận 10" href="https://phongtro123.com/tinh-thanh/ho-chi-minh/cho-thue-phong-cao-cap-day-du-tien-nghi-nhu-can-ho-ngay-trung-tam-quan-10.html">Cho thuê phòng cao cấp, đầy đủ tiện nghi, như căn hộ, ngay trung tâm Quận 10</a></h3>
-                                                        <div class="clearfix">
-                                                            <div class="item_price_area clearfix">
-                                                                <div class="price">4.5 Triệu/tháng</div>
-                                                                <div class="area">22m<sup>2</sup>
-                                                                </div>
-                                                            </div>
-                                                            <div class="location"><a title="Quận 10, Hồ Chí Minh" href="https://phongtro123.com/tinh-thanh/ho-chi-minh/quan-10">Quận 10, Hồ Chí Minh</a>
-                                                            </div>
-                                                        </div>
-                                                        <p class="p_content">Cho thuê phòng đẹp trung tâm Quận 10 tiện nghi: - Địa chỉ 1: 436/19 đường 3 tháng 2, P.12, Q.10. - Địa chỉ 2: 43/3 đường Thành Thái, P.14, Q.10 - Địa Chỉ 3:…</p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-
-                        </div>
                         <!-- / Left content -->
 
                         <!-- Sidebar content -->
@@ -813,18 +681,6 @@
                     </div>
                 </div>
                 <!-- / Main content -->
-
-                <div class="call_to_action"><a href="tel:0914579786"><i class="fa fa-phone" aria-hidden="true"></i> Liên hệ 0914579786</a>
-                </div>
-
-
-
-
-                <div class="hidden-xs">
-
-
-                </div>
-
 
                 <div class="search_box_mobile hidden-lg hidden-sm">
 
@@ -865,45 +721,8 @@
                     <div class="show_desktop">
 
                     </div>
-                </div>
-
-
-                <!-- end webpage-->
-
-
-                <!--script src="https://phongtro123.com/wp-content/themes/phongtro123/zjs/z.min.js"></script-->
-                <!-- <script src="https://phongtro123.com/wp-content/themes/phongtro123/js/jquery-1.12.0.min.js"></script> -->
-                <!-- <script src="https://phongtro123.com/wp-content/themes/phongtro123/js/jquery.sticky.js"></script> -->
-                <!-- <script src="https://phongtro123.com/wp-content/themes/phongtro123/js/bootstrap.min.js"></script> -->
-                <!-- <script src="https://phongtro123.com/wp-content/themes/phongtro123/js/clipboard.min.js"></script>
-                <script src="https://phongtro123.com/wp-content/themes/phongtro123/js/jquery.bxslider.min.js"></script>
-                <script src="https://phongtro123.com/wp-content/themes/phongtro123/js/jquery.flexslider-min.js"></script>
-                <script src="https://phongtro123.com/wp-content/themes/phongtro123/js/mobile-detect.min.js"></script>
-                <script src="https://phongtro123.com/wp-content/themes/phongtro123/js/jquery.mmenu.all.min.js"></script>
-                <script src="https://phongtro123.com/wp-content/themes/phongtro123/js/toastr.min.js"></script>
-                <script src="https://phongtro123.com/wp-content/themes/phongtro123/js/select2.full.min.js"></script>
-                <script type="text/javascript" src="https://phongtro123.com/wp-content/themes/phongtro123/js/jquery.validate.js"></script>
-                <script type="text/javascript" src="https://phongtro123.com/wp-content/themes/phongtro123/js/cleave.min.js"></script>
-            
-                <script src="https://phongtro123.com/wp-content/themes/phongtro123/js/dmuploader.min.js"></script>
-                <script src="https://phongtro123.com/wp-content/themes/phongtro123/js/main-updated.js?v=101"></script>
-            
-                <script src="https://phongtro123.com/wp-content/themes/phongtro123/js/user_event_tracking.js?v=101"></script>
-                -->
-                <!-- <script src="https://sp.zalo.me/plugins/sdk.js" type="text/javascript" charset="utf-8" async="" defer=""></script> -->
-
-                <!-- <script src="https://phongtro123.com/cdn/js/province.1.0.15.js"></script> -->
-                <!-- <script src="https://phongtro123.com/cdn/js/province.1.15.40.js"></script> -->
-                <!-- <script src="https://phongtro123.com/cdn/js/province1.40.end.js?v=2"></script> -->
-                <!-- <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBQOMD4bH4l6t66ukqAGMIbF9CEFpHAqNw"></script> -->
-                <!-- <script src="https://phongtro123.com/wp-content/themes/phongtro123/js/google_map.js?v=1"></script> -->
-
-                <!-- Facebook Pixel Code -->
-
 
                 <div class="mm-slideout" id="mm-blocker"></div>
                 <div class="zs" id="app"></div>
-
-
-
+                
                 </body></html>

@@ -17,6 +17,14 @@
         <servlet-name>FilterServlet</servlet-name>
         <servlet-class>controller.FilterServlet</servlet-class>
     </servlet>
+    <servlet>
+        <servlet-name>UploadServlet</servlet-name>
+        <servlet-class>controller.UploadServlet</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>PhongTroInfoServlet</servlet-name>
+        <servlet-class>controller.InsertPhongTroServlet</servlet-class>
+    </servlet>
     <servlet-mapping>
         <servlet-name>HelloWorld</servlet-name>
         <url-pattern>/hello</url-pattern>
@@ -47,6 +55,14 @@
     <servlet-mapping>
         <servlet-name>FilterServlet</servlet-name>
         <url-pattern>/FilterServlet</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>UploadServlet</servlet-name>
+        <url-pattern>/UploadServlet</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>PhongTroInfoServlet</servlet-name>
+        <url-pattern>/PhongTroInfoServlet</url-pattern>
     </servlet-mapping>
     <session-config>
         <session-timeout>

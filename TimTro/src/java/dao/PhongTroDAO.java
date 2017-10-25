@@ -190,12 +190,26 @@ public class PhongTroDAO {
         return count;
     }
     
+    public void insertPhongTro(PhongTro phongTro) throws SQLException{
+        Connection conn = DBConnect.getConnection();
+        String sql = "INSERT INTO phongtro(title, content, area, price, email, phone, image, address)"
+                + "VALUES ('" + phongTro.getTitle()+"', '"+ phongTro.getContent()
+                +"', '" + phongTro.getArea() + "', '" + phongTro.getPrice()
+                + "', '" + phongTro.getEmail()+ "', '"+ phongTro.getPhone()
+                +"', '" + phongTro.getImage()+ "', '" + phongTro.getAddress() +"')";
+
+
+        PreparedStatement ps = conn.prepareCall(sql);
+        ps.executeUpdate();
+    }
+    
     public static void main(String[] args) throws SQLException {
         PhongTroDAO dao = new PhongTroDAO();
 //        for(PhongTro item : dao.getListPhongTro()){
 //            System.out.println(item.getId() + "-" + item.getTitle());
 //        }
 
-        System.out.println(dao.countPhongTroByFilter("quan1",8));
+//        System.out.println(dao.countPhongTroByFilter("quan1",8));
+          dao.insertPhongTro(new PhongTro());
     }
 }

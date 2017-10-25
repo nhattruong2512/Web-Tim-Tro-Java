@@ -29,6 +29,7 @@ public class PhongTro {
     }
 
     public String getTitle() {
+        if (title == null) return "";
         return title;
     }
 
@@ -37,6 +38,7 @@ public class PhongTro {
     }
 
     public String getContent() {
+        if(content == null) return "";
         return content;
     }
 
@@ -45,6 +47,7 @@ public class PhongTro {
     }
     
     public String getSubContent(){
+        if(content == null) return "";
         if (content.length() > 100){
             return content.substring(0, 100) + "...";
         }
@@ -52,6 +55,9 @@ public class PhongTro {
     }
 
     public String getArea() {
+        if (area == null){
+            return "";
+        }
         return getKhuVuc(area);
     }
 
@@ -60,6 +66,7 @@ public class PhongTro {
     }
 
     public String getImage() {
+        if (image == null) return "";
         return image;
     }
 
@@ -76,6 +83,7 @@ public class PhongTro {
     }
 
     public String getEmail() {
+        if (email == null) return "";
         return email;
     }
 
@@ -84,6 +92,7 @@ public class PhongTro {
     }
 
     public String getPhone() {
+        if(phone == null) return "";
         return phone;
     }
 
@@ -92,6 +101,7 @@ public class PhongTro {
     }
 
     public String getAddress() {
+        if (address == null) return "";  
         return address;
     }
 
